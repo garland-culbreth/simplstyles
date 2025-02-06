@@ -17,6 +17,9 @@ and use stylesheets as you would any other matplotlib style, with the same impor
 >>> plt.style.use("simplstyles.clean")
 ```
 
+> [!NOTE]
+> All stylesheets use a font stack which prefers Inter, then Helvetica, then falls back on system defaults. Inter is freely available [from its creator](https://rsms.me/inter/).
+
 ## Examples
 
 ### Clean
