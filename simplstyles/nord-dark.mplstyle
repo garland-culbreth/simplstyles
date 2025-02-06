@@ -1,0 +1,69 @@
+#----------------------------------------------------------
+# A dark Nord themed matplotlib style.
+#
+# Inspired by the Nord theme:
+# https://www.nordtheme.com/
+#
+#----------------------------------------------------------
+
+# Figure-wide
+figure.facecolor: "#2e3440"
+lines.linewidth: 1
+lines.solid_capstyle: round
+lines.markersize: 6
+patch.linewidth: 1
+patch.edgecolor: "#3b4252"
+# Colors
+axes.prop_cycle: cycler('color', ["5e81ac", "88c0d0", "d08770", "bf616a", "b48ead", "a3be8c", "ebcb8b", "abb9cf"])
+image.cmap: magma
+# Axes
+axes.spines.top: False
+axes.spines.right: False
+axes.facecolor: "#2e3440"
+axes.edgecolor: "#4c566a"
+axes.labelcolor: "#e5e9f0"
+axes.axisbelow: True
+axes.grid: False
+axes.linewidth: 1
+axes.titlelocation: left
+axes.titleweight: bold
+# Grid
+grid.color: "#3b4252"
+grid.linestyle: -
+grid.linewidth: 1
+# Ticks
+xtick.direction: inout
+ytick.direction: inout
+xtick.color: "#4c566a"
+ytick.color: "#4c566a"
+xtick.labelcolor: "#abb9cf"
+ytick.labelcolor: "#abb9cf"
+xtick.major.width: 1
+ytick.major.width: 1
+xtick.minor.width: 0.75
+ytick.minor.width: 0.75
+xtick.major.size: 5.0
+ytick.major.size: 5.0
+xtick.minor.size: 2.75
+ytick.minor.size: 2.75
+# Font
+text.color: "#d8dee9"#
+font.family: sans-serif
+font.sans-serif: Inter, Helvetica, Arial, DejaVu Sans, Bitstream Vera Sans, sans-serif
+mathtext.fontset: stixsans
+font.size: 12
+axes.labelsize: 14
+axes.titlesize: 14
+xtick.labelsize: 12
+ytick.labelsize: 12
+legend.fontsize: 12
+# Legend
+legend.frameon: False
+legend.numpoints: 1
+legend.scatterpoints: 1
+# Scatter plots
+scatter.edgecolors: face
+# Boxplots
+boxplot.showcaps: False
+boxplot.showbox: False
+boxplot.showfliers: False
