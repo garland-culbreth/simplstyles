@@ -4,7 +4,7 @@ Simple and clean matplotlib style sheets.
 
 ## Installation and use
 
-Import simplystyles as you would any other package
+Import simplstyles as you would any other package
 
 ```py
 >>> import simplstyles
