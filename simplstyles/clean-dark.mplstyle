@@ -47,7 +47,7 @@ ytick.minor.size: 2.75
 # Font
 text.color: "#d1d7e0"
 font.family: sans-serif
-font.sans-serif: Cronos Pro, Myriad Pro, Inter, Helvetica, Arial, sans-serif
+font.sans-serif: Inter, Helvetica, Arial, sans-serif
 mathtext.fontset: stixsans
 font.size: 12
 axes.labelsize: 14
