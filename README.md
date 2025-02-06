@@ -10,7 +10,7 @@ Import simplystyles as you would any other package
 >>> import simplstyles
 ```
 
-and use it as you would any other matplotlib style:
+and use stylesheets as you would any other matplotlib style, with the same import structure as regular package modules:
 
 ```py
 >>> import matplotlib.pyplot as plt
