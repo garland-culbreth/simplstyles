@@ -1,0 +1,67 @@
+#----------------------------------------------------------
+# A light theme using background colors from ayu
+# https://github.com/ayu-theme/ayu-colors
+#
+#----------------------------------------------------------
+
+# Figure-wide
+figure.facecolor: white
+lines.linewidth: 1.5
+lines.solid_capstyle: round
+lines.markersize: 6
+patch.linewidth: 1.5
+patch.edgecolor: "#e7eaed"
+# Colors
+axes.prop_cycle: cycler('color', ["#ffaa33", "#55b4d4", "#f07171", "#4cbf99", "#a37acc", "#399ee6", "#a0a6ac"])
+image.cmap: magma
+# Axes
+axes.spines.top: False
+axes.spines.right: False
+axes.facecolor: white
+axes.edgecolor: "#cccfd3"
+axes.labelcolor: "#5c6166"
+axes.axisbelow: True
+axes.grid: False
+axes.linewidth: 1.8
+axes.titlelocation: left
+axes.titleweight: bold
+# Grid
+grid.color: "#edeff1"
+grid.linestyle: -
+grid.linewidth: 1.5
+# Ticks
+xtick.direction: inout
+ytick.direction: inout
+xtick.color: "#cccfd3"
+ytick.color: "#cccfd3"
+xtick.labelcolor: "#737980"
+ytick.labelcolor: "#737980"
+xtick.major.width: 1.8
+ytick.major.width: 1.8
+xtick.minor.width: 1.5
+ytick.minor.width: 1.5
+xtick.major.size: 6.0
+ytick.major.size: 6.0
+xtick.minor.size: 4.0
+ytick.minor.size: 4.0
+# Font
+text.color: "#5c6166"
+font.family: sans-serif
+font.sans-serif: Inter, Helvetica, DejaVu Sans, Bitstream Vera Sans, sans-serif
+mathtext.fontset: stixsans
+font.size: 16
+axes.labelsize: 18
+axes.titlesize: 18
+xtick.labelsize: 16
+ytick.labelsize: 16
+legend.fontsize: 16
+# Legend
+legend.frameon: False
+legend.numpoints: 1
+legend.scatterpoints: 1
+# Scatter plots
+scatter.edgecolors: face
+# Boxplots
+boxplot.showcaps: False
+boxplot.showbox: False
+boxplot.showfliers: False

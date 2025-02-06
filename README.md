@@ -31,6 +31,15 @@ and use stylesheets as you would any other matplotlib style, with the same impor
   <img src="./examples/clean-dark-talk.png" width="24%" alt="clean dark talk" />
 </p>
 
+### ayu
+
+<p float="left">
+  <img src="./examples/ayu-light.png" width="24%" alt="clean" />
+  <img src="./examples/ayu-light-talk.png" width="24%" alt="clean talk" /> 
+  <img src="./examples/ayu-mirage-talk.png" width="24%" alt="clean dark" />
+  <img src="./examples/ayu-mirage-talk.png" width="24%" alt="clean dark talk" />
+</p>
+
 ### Nord
 
 <p float="left">
