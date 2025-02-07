@@ -1,8 +1,6 @@
 #----------------------------------------------------------
-# A light Nord themed matplotlib style.
-#
-# Inspired by the Nord theme:
-# https://www.nordtheme.com/
+# A light Solarized matplotlib style.
+# https://ethanschoonover.com/solarized/
 #
 #----------------------------------------------------------
 
