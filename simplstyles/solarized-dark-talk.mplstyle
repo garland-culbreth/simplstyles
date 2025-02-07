@@ -24,13 +24,13 @@ axes.edgecolor: "#586e75"
 axes.labelcolor: "#93a1a1"
 axes.axisbelow: True
 axes.grid: False
-axes.linewidth: 1.5
+axes.linewidth: 1.25
 axes.titlelocation: left
 axes.titleweight: bold
 # Grid
 grid.color: "#073642"
 grid.linestyle: -
-grid.linewidth: 1.5
+grid.linewidth: 1.25
 # Ticks
 xtick.direction: inout
 ytick.direction: inout
@@ -38,8 +38,8 @@ xtick.color: "#586e75"
 ytick.color: "#586e75"
 xtick.labelcolor: "#839496"
 ytick.labelcolor: "#839496"
-xtick.major.width: 1.5
-ytick.major.width: 1.5
+xtick.major.width: 1.25
+ytick.major.width: 1.25
 xtick.minor.width: 1.0
 ytick.minor.width: 1.0
 xtick.major.size: 6.0
