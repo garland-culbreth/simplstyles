@@ -49,6 +49,15 @@ and use stylesheets as you would any other matplotlib style, with the same impor
   <img src="./examples/nord-dark-talk.png" width="24%" alt="clean dark talk" />
 </p>
 
+### [Everforest](https://github.com/sainnhe/everforest)
+
+<p float="left">
+  <img src="./examples/everforest-light.png" width="24%" alt="clean" />
+  <img src="./examples/everforest-light-talk.png" width="24%" alt="clean talk" /> 
+  <img src="./examples/everforest-dark.png" width="24%" alt="clean dark" />
+  <img src="./examples/everforest-dark-talk.png" width="24%" alt="clean dark talk" />
+</p>
+
 ### [Solarized](https://github.com/altercation/solarized)
 
 <p float="left">

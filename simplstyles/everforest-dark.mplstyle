@@ -1,0 +1,67 @@
+#----------------------------------------------------------
+# A dark theme using colors from Everforest
+# https://github.com/sainnhe/everforest
+#
+#----------------------------------------------------------
+
+# Figure-wide
+figure.facecolor: "#293136"
+lines.linewidth: 1
+lines.solid_capstyle: round
+lines.markersize: 6
+patch.linewidth: 1
+patch.edgecolor: "#333c43"
+# Colors
+axes.prop_cycle: cycler("color", ["#35a77c", "#8da101", "#dfa000", "#f57d26", "#df69ba", "#3a94c5", "#939f91"])
+image.cmap: magma
+# Axes
+axes.spines.top: False
+axes.spines.right: False
+axes.facecolor: "#293136"
+axes.edgecolor: "#434f55"
+axes.labelcolor: "#9da9a0"
+axes.axisbelow: True
+axes.grid: False
+axes.linewidth: 1
+axes.titlelocation: left
+axes.titleweight: bold
+# Grid
+grid.color: "#333c43"
+grid.linestyle: -
+grid.linewidth: 1
+# Ticks
+xtick.direction: inout
+ytick.direction: inout
+xtick.color: "#434f55"
+ytick.color: "#434f55"
+xtick.labelcolor: "#859289"
+ytick.labelcolor: "#859289"
+xtick.major.width: 1
+ytick.major.width: 1
+xtick.minor.width: 0.75
+ytick.minor.width: 0.75
+xtick.major.size: 5.0
+ytick.major.size: 5.0
+xtick.minor.size: 2.75
+ytick.minor.size: 2.75
+# Font
+text.color: "#d3c6aa"
+font.family: sans-serif
+font.sans-serif: Inter, Helvetica, Arial, sans-serif
+mathtext.fontset: stixsans
+font.size: 12
+axes.labelsize: 14
+axes.titlesize: 14
+xtick.labelsize: 12
+ytick.labelsize: 12
+legend.fontsize: 12
+# Legend
+legend.frameon: False
+legend.numpoints: 1
+legend.scatterpoints: 1
+# Scatter plots
+scatter.edgecolors: face
+# Boxplots
+boxplot.showcaps: False
+boxplot.showbox: False
+boxplot.showfliers: False
