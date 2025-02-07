@@ -48,3 +48,12 @@ and use stylesheets as you would any other matplotlib style, with the same impor
   <img src="./examples/nord-dark.png" width="24%" alt="clean dark" />
   <img src="./examples/nord-dark-talk.png" width="24%" alt="clean dark talk" />
 </p>
+
+### Solarized
+
+<p float="left">
+  <img src="./examples/solarized-light.png" width="24%" alt="clean" />
+  <img src="./examples/solarized-light-talk.png" width="24%" alt="clean talk" /> 
+  <img src="./examples/solarized-dark.png" width="24%" alt="clean dark" />
+  <img src="./examples/solarized-dark-talk.png" width="24%" alt="clean dark talk" />
+</p>
