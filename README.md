@@ -31,7 +31,7 @@ and use stylesheets as you would any other matplotlib style, with the same impor
   <img src="./examples/clean-dark-talk.png" width="24%" alt="clean dark talk" />
 </p>
 
-### ayu
+### [ayu](https://github.com/ayu-theme/ayu-colors)
 
 <p float="left">
   <img src="./examples/ayu-light.png" width="24%" alt="clean" />
@@ -40,7 +40,7 @@ and use stylesheets as you would any other matplotlib style, with the same impor
   <img src="./examples/ayu-mirage-talk.png" width="24%" alt="clean dark talk" />
 </p>
 
-### Nord
+### [Nord](https://github.com/nordtheme/nord)
 
 <p float="left">
   <img src="./examples/nord.png" width="24%" alt="clean" />
@@ -49,7 +49,7 @@ and use stylesheets as you would any other matplotlib style, with the same impor
   <img src="./examples/nord-dark-talk.png" width="24%" alt="clean dark talk" />
 </p>
 
-### Solarized
+### [Solarized](https://github.com/altercation/solarized)
 
 <p float="left">
   <img src="./examples/solarized-light.png" width="24%" alt="clean" />
