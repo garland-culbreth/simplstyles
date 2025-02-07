@@ -6,10 +6,10 @@
 
 # Figure-wide
 figure.facecolor: "#212830"
-lines.linewidth: 1
+lines.linewidth: 1.5
 lines.solid_capstyle: round
 lines.markersize: 6
-patch.linewidth: 1
+patch.linewidth: 1.5
 patch.edgecolor: "#2a313c"
 # Colors
 axes.prop_cycle: cycler("color", ["#418ace", "#e37064", "#47b8b3", "#8a56bd", "#d4596d", "#e5ac62", "#9da2ae"])
