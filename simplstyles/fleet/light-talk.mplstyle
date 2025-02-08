@@ -1,0 +1,71 @@
+#----------------------------------------------------------
+# A light theme using background colors inspired by U.S.
+# Navy Pacific Fleet camouflage measures in September 1943.
+#
+# The plotting color cycle colors are my own, because
+# camouflage colors are obviously unsuitable for data 
+# visualization.
+#
+#----------------------------------------------------------
+
+# Figure-wide
+figure.facecolor: white
+lines.linewidth: 1.5
+lines.solid_capstyle: round
+lines.markersize: 9
+patch.linewidth: 1.5
+patch.edgecolor: "#e9eaec"
+# Colors
+axes.prop_cycle: cycler("color", ["#418ace", "#e37064", "#47b8b3", "#8a56bd", "#d4596d", "#e5ac62", "#9da2ae"])
+image.cmap: magma
+# Axes
+axes.spines.top: False
+axes.spines.right: False
+axes.facecolor: white
+axes.edgecolor: "#a9afb9"
+axes.labelcolor: "#455168"
+axes.axisbelow: True
+axes.grid: False
+axes.linewidth: 1.25
+axes.titlelocation: left
+axes.titleweight: bold
+# Grid
+grid.color: "#e9eaec"
+grid.linestyle: -
+grid.linewidth: 1.25
+# Ticks
+xtick.direction: inout
+ytick.direction: inout
+xtick.color: "#a9afb9"
+ytick.color: "#a9afb9"
+xtick.labelcolor: "#6e798d"
+ytick.labelcolor: "#6e798d"
+xtick.major.width: 1.25
+ytick.major.width: 1.25
+xtick.minor.width: 1.0
+ytick.minor.width: 1.0
+xtick.major.size: 6.0
+ytick.major.size: 6.0
+xtick.minor.size: 4.0
+ytick.minor.size: 4.0
+# Font
+text.color: "#262626"
+font.family: sans-serif
+font.sans-serif: Inter, Helvetica, Arial, sans-serif
+mathtext.fontset: stixsans
+font.size: 16
+axes.labelsize: 18
+axes.titlesize: 18
+xtick.labelsize: 16
+ytick.labelsize: 16
+legend.fontsize: 16
+# Legend
+legend.frameon: False
+legend.numpoints: 1
+legend.scatterpoints: 1
+# Scatter plots
+scatter.edgecolors: face
+# Boxplots
+boxplot.showcaps: False
+boxplot.showbox: False
+boxplot.showfliers: False
