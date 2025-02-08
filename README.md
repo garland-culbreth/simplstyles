@@ -14,7 +14,7 @@ and use stylesheets as you would any other matplotlib style, with the same impor
 
 ```py
 >>> import matplotlib.pyplot as plt
->>> plt.style.use("simplstyles.clean.clean")
+>>> plt.style.use("simplstyles.clean.light")
 ```
 
 > [!NOTE]
