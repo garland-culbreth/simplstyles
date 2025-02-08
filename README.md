@@ -67,6 +67,15 @@ and use stylesheets as you would any other matplotlib style, with the same impor
   <img src="./examples/solarized/dark-talk.png" width="24%" alt="clean dark talk" />
 </p>
 
+### fleet
+
+<p float="left">
+  <img src="./examples/fleet/light.png" width="24%" alt="clean" />
+  <img src="./examples/fleet/light-talk.png" width="24%" alt="clean talk" /> 
+  <img src="./examples/fleet/dark.png" width="24%" alt="clean dark" />
+  <img src="./examples/fleet/dark-talk.png" width="24%" alt="clean dark talk" />
+</p>
+
 ## Accessibility
 
 Color cycles are selected to be as colorblind safe as possible from the basis theme's available colors. However, some limitations are inevitable as many of the basis themes were not originally developed for data visualization. Please be mindful when preparing figures to ensure they are legible to all viewers.
