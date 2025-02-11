@@ -1,5 +1,9 @@
 # simplstyles
 
+[![python versions](https://img.shields.io/badge/3.11_%7C_3.12_%7C_3.13-3776AB?style=flat-square&logo=python&logoColor=ffffff&label=python&labelColor=393f46)](https://github.com/garland-culbreth/simplstyles)
+[![pypi version](https://img.shields.io/pypi/v/simplstyles?style=flat-square&logo=pypi&logoColor=ffffff&labelColor=393f46)](https://pypi.org/project/simplstyles/)
+[![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json&style=flat-square&labelColor=393f46)](https://github.com/astral-sh/uv)
+
 Simple and clean matplotlib style sheets.
 
 ## Installation
@@ -25,8 +29,7 @@ and use stylesheets as you would any other matplotlib style, with the same impor
 >>> plt.style.use("simplstyles.clean.light")
 ```
 
-> [!NOTE]
-> All stylesheets use a font stack which prefers Inter, then Helvetica, then falls back on system defaults. Inter is freely available [from its creator](https://rsms.me/inter/).
+All stylesheets use a font stack which prefers Inter, then Helvetica, then falls back on system defaults. Inter is freely available [from its creator](https://rsms.me/inter/).
 
 ## Examples
 
