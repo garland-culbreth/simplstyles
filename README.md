@@ -2,7 +2,15 @@
 
 Simple and clean matplotlib style sheets.
 
-## Installation and use
+## Installation
+
+The latest release can be installed from PyPI:
+
+```txt
+pip install simplstyles
+```
+
+## Use
 
 Import simplstyles as you would any other package
 
