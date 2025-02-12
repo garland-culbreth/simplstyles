@@ -1,6 +1,6 @@
 [project]
 name = "simplstyles"
-version = "1.0.3"
+version = "1.0.8"
 description = "Simple and clean matplotlib style sheets "
 readme = "README.md"
 requires-python = ">=3.12"
@@ -21,3 +21,7 @@ classifiers = [
 
 [project.urls]
 Repository = "https://github.com/garland-culbreth/simplstyles"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
